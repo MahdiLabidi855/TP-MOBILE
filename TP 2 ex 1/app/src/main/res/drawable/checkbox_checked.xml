@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background (Light Blue) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#232424"/> <!-- Light Blue Background -->
+            <stroke android:width="2dp" android:color="#FFFFFF"/> <!-- Blue Border -->
+            <corners android:radius="4dp"/> <!-- Rounded Corners -->
+            <size android:width="24dp" android:height="24dp"/> <!-- Box Size -->
+        </shape>
+    </item>
+
+    <!-- Checkmark Icon (Only Visible When Checked) -->
+    <item>
+        <vector
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="24dp"
+            android:height="24dp"
+            android:viewportWidth="24"
+            android:viewportHeight="24">
+
+            <path
+                android:fillColor="#232424"
+                android:strokeWidth="2"
+                android:strokeColor="#007AFF"
+                android:pathData="M6,12l4,4l8,-8"/>
+        </vector>
+    </item>
+</layer-list>
