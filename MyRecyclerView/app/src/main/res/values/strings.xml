@@ -2,18 +2,78 @@
     <string name="app_name">My RecyclerView</string>
     <string-array name="tit">
         <item>titre1</item>
+        <item>titre2</item>
+        <item>titre3</item>
+        <item>titre4</item>
+        <item>titre5</item>
+        <item>titre6</item>
+        <item>titre7</item>
+        <item>titre8</item>
+        <item>titre9</item>
+        <item>titre10</item>
+        <item>titre11</item>
+        <item>titre12</item>
+        <item>titre13</item>
+        <item>titre14</item>
+        <item>titre15</item>
+        <item>titre16</item>
+        <item>titre17</item>
+        <item>titre18</item>
         <item>titre1</item>
-        <item>titre1</item>
-        <item>titre1</item>
-        <item>titre1</item>
-        <item>titre1</item>
+        <item>titre2</item>
+        <item>titre3</item>
+        <item>titre4</item>
+        <item>titre5</item>
+        <item>titre6</item>
+        <item>titre7</item>
+        <item>titre8</item>
+        <item>titre9</item>
+        <item>titre10</item>
+        <item>titre11</item>
+        <item>titre12</item>
+        <item>titre13</item>
+        <item>titre14</item>
+        <item>titre15</item>
+        <item>titre16</item>
+        <item>titre17</item>
+        <item>titre18</item>
     </string-array>
     <string-array name="stit">
         <item>Soustitre1</item>
+        <item>Soustitre2</item>
+        <item>Soustitre3</item>
+        <item>Soustitre4</item>
+        <item>Soustitre5</item>
+        <item>Soustitre6</item>
+        <item>Soustitre7</item>
+        <item>Soustitre8</item>
+        <item>Soustitre9</item>
+        <item>Soustitre10</item>
+        <item>Soustitre11</item>
+        <item>Soustitre12</item>
+        <item>Soustitre13</item>
+        <item>Soustitre14</item>
+        <item>Soustitre15</item>
+        <item>Soustitre16</item>
+        <item>Soustitre17</item>
+        <item>Soustitre18</item>
         <item>Soustitre1</item>
-        <item>Soustitre1</item>
-        <item>Soustitre1</item>
-        <item>Soustitre1</item>
-        <item>Soustitre1</item>
+        <item>Soustitre2</item>
+        <item>Soustitre3</item>
+        <item>Soustitre4</item>
+        <item>Soustitre5</item>
+        <item>Soustitre6</item>
+        <item>Soustitre7</item>
+        <item>Soustitre8</item>
+        <item>Soustitre9</item>
+        <item>Soustitre10</item>
+        <item>Soustitre11</item>
+        <item>Soustitre12</item>
+        <item>Soustitre13</item>
+        <item>Soustitre14</item>
+        <item>Soustitre15</item>
+        <item>Soustitre16</item>
+        <item>Soustitre17</item>
+        <item>Soustitre18</item>
     </string-array>
 </resources>

@@ -28,7 +28,7 @@ String[] Soust;
         titre = getResources().getStringArray(R.array.tit);
         Soust = getResources().getStringArray(R.array.stit);
         ListAdapter ad;
-        Integer[] img= {R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1};
+        Integer[] img= {R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1,R.drawable.img,R.drawable.img1};
 
         ad =new ListAdapter(MainActivity.this,titre,Soust,img);
         rv.setLayoutManager(new LinearLayoutManager(this));
